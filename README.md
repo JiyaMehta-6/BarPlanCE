@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2026-01-18 065727" src="https://github.com/user-attachments/assets/241e5a75-8f93-428b-84e3-a489a5e043d7" /># BarPlanCE 🏗️
+# BarPlanCE 🏗️
 
 **Bar Cutting & Optimization Tool for Civil Engineers**
 
@@ -15,9 +15,7 @@ On a mid-sized project, that wastage alone can mean:
 Most sites still rely on **Excel sheets and manual judgment** to decide how bars are cut from standard lengths. Excel is excellent for quantities, but **terrible at combinatorial optimization**.
 
 **BarPlanCE solves exactly this gap.**
-
-
-<img width="1920" height="1080" alt="Screenshot 2026-01-18 065727" src="https://github.com/user-attachments/assets/f72dccd2-3af9-40e3-aa34-ce5b731cffdc" />
+<img width="1911" height="1009" alt="Screenshot 2026-01-18 082726" src="https://github.com/user-attachments/assets/43b8668b-7f48-430f-86a5-78ec0ff7e503" />
 
 
 It takes raw cut requirements and produces an **optimized bar cutting plan** that:
@@ -59,9 +57,9 @@ It converts cut requirements into:
 * 📉 **Automatic Wastage Calculation**
   Unused length per bar is calculated and displayed.
 
-* 📂 **Flexible Input**
+* 📂**Flexible Input**
+<img width="1906" height="136" alt="Screenshot 2026-01-18 082751" src="https://github.com/user-attachments/assets/9838e821-aa48-4566-86aa-b26eeae6a378" />
 
-<img width="1875" height="115" alt="Screenshot 2026-01-18 065646" src="https://github.com/user-attachments/assets/56969781-b75a-471e-83aa-a8d25cece531" />
 * Also the size of sourced BAR can be change, usually which is 6000/1200 depending on type od REBAR
 
   * Manual entry
@@ -218,3 +216,4 @@ BarPlanCE is built on a simple belief:
 > *Steel is expensive. Wastage is preventable. Planning should be visual and precise.*
 
 If this tool saves even **1% steel on one project**, it has already paid for itself many times over.
+
