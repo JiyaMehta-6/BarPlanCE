@@ -1,0 +1,30 @@
+Requirement of bars : 
+      150, 150, 250, 250, 250, 250, 290, 290, 290, 290, 330, 330, 330, 390, 390
+      390, 390, 390, 390, 390, 390, 400, 400, 400, 400, 450, 450, 450, 450, 500
+      500, 500, 500, 500, 500, 575, 575, 575, 575, 600, 600, 600, 600, 600, 600
+      610, 610, 610, 610, 700, 700, 700, 700, 700, 700
+
+Recommended schedule :
+Bar   1 : [400, 400, 400]                Consumed : 1200   Wastage :    0
+Bar   2 : [400, 400, 400]                Consumed : 1200   Wastage :    0
+Bar   3 : [250, 250, 250, 450]           Consumed : 1200   Wastage :    0
+Bar   4 : [250, 250, 250, 450]           Consumed : 1200   Wastage :    0
+Bar   5 : [150, 150, 290, 610]           Consumed : 1200   Wastage :    0
+Bar   6 : [290, 290, 290, 330]           Consumed : 1200   Wastage :    0
+Bar   7 : [500, 700]                     Consumed : 1200   Wastage :    0
+Bar   8 : [500, 700]                     Consumed : 1200   Wastage :    0
+Bar   9 : [500, 700]                     Consumed : 1200   Wastage :    0
+Bar  10 : [500, 700]                     Consumed : 1200   Wastage :    0
+Bar  11 : [500, 700]                     Consumed : 1200   Wastage :    0
+Bar  12 : [500, 700]                     Consumed : 1200   Wastage :    0
+Bar  13 : [600, 600]                     Consumed : 1200   Wastage :    0
+Bar  14 : [600, 600]                     Consumed : 1200   Wastage :    0
+Bar  15 : [600, 600]                     Consumed : 1200   Wastage :    0
+Bar  16 : [575, 610]                     Consumed : 1185   Wastage :   15
+Bar  17 : [575, 610]                     Consumed : 1185   Wastage :   15
+Bar  18 : [575, 610]                     Consumed : 1185   Wastage :   15
+Bar  19 : [330, 390, 450]                Consumed : 1170   Wastage :   30
+Bar  20 : [330, 390, 450]                Consumed : 1170   Wastage :   30
+Bar  21 : [390, 390, 390]                Consumed : 1170   Wastage :   30
+Bar  22 : [390, 390, 390]                Consumed : 1170   Wastage :   30
+Bar  23 : [575, 575]                     Consumed : 1150   Wastage :   50
