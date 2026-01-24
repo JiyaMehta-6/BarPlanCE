@@ -132,14 +132,14 @@ cd BarPlanCE
 ### 3. Create environment & install dependencies
 
 ```bash
-uv venv
-uv pip install pyside6 pandas openpyxl
+uv init
+uv add pyside6 pandas openpyxl
 ```
 
 ### 4. Run the application
 
 ```bash
-python gui.py
+uv run gui.py
 ```
 
 ---
@@ -216,4 +216,5 @@ BarPlanCE is built on a simple belief:
 > *Steel is expensive. Wastage is preventable. Planning should be visual and precise.*
 
 If this tool saves even **1% steel on one project**, it has already paid for itself many times over.
+
 
